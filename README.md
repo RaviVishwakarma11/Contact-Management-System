@@ -21,7 +21,7 @@ To run the Contact Management System locally on your machine, follow these steps
 
 1. Clone this repository to your local machine using `git clone https://github.com/RaviVishwakarma11/Contact-Management-System.git`
 2. Ensure you have Java and MySQL installed on your system.
-3. Set up the PostgreSQL database and configure the connection details in the `DatabaseManager.java` file.
+3. Set up the MySQL database and configure the connection details in the `DatabaseManager.java` file.
 4. Compile the Java code using `javac` or your preferred Java IDE.
 5. Run the application and start managing your contacts!
 
